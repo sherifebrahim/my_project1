@@ -13,6 +13,7 @@
 # what is git rebase 
 ## git rebase is a Git command used for merging changes from one branch into another. However, it differs from the more common git merge in that it integrates changes by moving or combining a sequence of commits to a new base commit. This can lead to a more linear and cleaner project history.
 ![Alt text](Capture.png)
+# its my branch test
 
 
 
